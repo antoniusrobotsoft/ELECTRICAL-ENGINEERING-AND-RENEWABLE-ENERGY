@@ -2,12 +2,14 @@ Kabel listrik -> Supreme, Eterna
 
 Terminal -> Wago
 
-Off Grid Inverter Kualitas Standar -> Suoer
+Off Grid Pure Sine Wave Inverter Kualitas Standard -> Suoer
 
-MPPT Kualitas Standar -> Suoer, Powr
+MPPT Asli -> Suoer, Powr, Epever, Victron
 
 MCB, MCCB -> Schneider
 
-Grid Tie Inverter Standar -> Growatt, Goodwe, Luminous
+Grid Tie Inverter Standard -> Growatt, Goodwe, Luminous
+
+
 
 
