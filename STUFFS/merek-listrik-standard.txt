@@ -6,7 +6,7 @@ Off Grid Pure Sine Wave Inverter Kualitas Standard -> Suoer
 
 MPPT Asli -> Suoer, Powr, Epever, Victron
 
-MCB, MCCB -> Schneider
+MCB (untuk instalasi listrik 1 phase), MCCB (untuk instalasi listrik 3 phase) -> Schneider
 
 Grid Tie Inverter Standard -> Growatt, Goodwe, Luminous
 
