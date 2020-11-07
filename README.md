@@ -2,10 +2,19 @@
 Electrical Engineering and Renewable Energy Stuffs and Products
 
 by : Antonius Robotsoft
-www.robotsoft.co.id - www.freenergi.com - www.jasaplus.com
 
-@robotsoftid
-@freenergi
-@jasaplus
 
-lulz
+_____________________________________________________
+
+Robotsoft - Better Technology for a Better Life
+www.robotsoft.co.id 
+
+<b>Connect Us !</b>
+<br>
+https://twitter.com/robotsoftid
+<br>
+https://www.youtube.com/robotsoft
+<br>
+https://www.instagram.com/robotsoftid
+<br>
+https://www.facebook.com/robotsoft
