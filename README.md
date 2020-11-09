@@ -10,6 +10,9 @@ Freenergi - Reduce Your Electricity Cost ! Go Solar Today !
 <br>
 www.freenergi.com
 
+<br><br>
+Freenergi provides off grid and on grid solar power system installation service. 
+<br>
 
 <b>Connect Us !</b>
 <br>
