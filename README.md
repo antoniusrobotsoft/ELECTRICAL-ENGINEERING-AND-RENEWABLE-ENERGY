@@ -8,7 +8,6 @@ _____________________________________________________
 Freenergi - Reduce Your Electricity Cost ! Go Solar Today ! 
 <br>
 www.freenergi.com
-
 <br>
 <ul>
   <li>Off Grid Solar Power System Installation</li>
@@ -28,8 +27,7 @@ _____________________________________________________
 JasaPlus - IT & Electrical Contractor
 <br>
 www.jasaplus.com
-
-<br><br>
+<br>
 <ul>
   <li>FIDS Installation for Airport (worldwide)</li>
   <li>No Touch Parking Barrier (Indonesia only)</li>
@@ -40,3 +38,9 @@ www.jasaplus.com
   <li>Conveyor Installation for Airport (Indonesia only)</li>
   <li>Electrical Installation (Indonesia only)</li>
 </ul>
+
+<br>
+<b>Connect Us !</b>
+<br>
+https://twitter.com/jasaplus | https://www.instagram.com/jasaplus | https://www.facebook.com/jasaplus.dev
+
