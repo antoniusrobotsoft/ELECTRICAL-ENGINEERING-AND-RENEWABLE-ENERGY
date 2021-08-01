@@ -11,10 +11,10 @@ Website : www.freenergi.com
 <br>
 <a href="https://raw.githubusercontent.com/antoniusrobotsoft/ELECTRICAL-ENGINEERING-AND-RENEWABLE-ENERGY/main/freenergi.com/perhitungan-kebutuhan-plts-ac-1pk.pdf">https://raw.githubusercontent.com/antoniusrobotsoft/ELECTRICAL-ENGINEERING-AND-RENEWABLE-ENERGY/main/freenergi.com/perhitungan-kebutuhan-plts-ac-1pk.pdf</a>
 
-<br>
+<br><br>
 
 <a href="https://raw.githubusercontent.com/antoniusrobotsoft/ELECTRICAL-ENGINEERING-AND-RENEWABLE-ENERGY/main/freenergi.com/perhitungan_kebutuhan_plts4kw.pdf">https://raw.githubusercontent.com/antoniusrobotsoft/ELECTRICAL-ENGINEERING-AND-RENEWABLE-ENERGY/main/freenergi.com/perhitungan_kebutuhan_plts4kw.pdf</a>
 
-<br>
+<br><br>
 
 <a href="https://raw.githubusercontent.com/antoniusrobotsoft/ELECTRICAL-ENGINEERING-AND-RENEWABLE-ENERGY/main/freenergi.com/perhitungan_kebutuhan_plts_tambak.pdf">https://raw.githubusercontent.com/antoniusrobotsoft/ELECTRICAL-ENGINEERING-AND-RENEWABLE-ENERGY/main/freenergi.com/perhitungan_kebutuhan_plts_tambak.pdf</a>
