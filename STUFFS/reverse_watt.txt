@@ -1,0 +1,82 @@
+1. PV 50 watt
+
+
+wp = 100/85 * w
+w = watt perhari / 5
+50 = (100 / 85) * w
+w = 50 / (100/85)
+w = 42
+
+42 = watt perhari / 5 = 210 watt perhari
+210 / 24 = 8 watt
+
+--------------------------
+
+
+50 wp
+
+Watt per day = 210
+
+Watt per hour = 8 
+
+--------------------------
+
+100 wp
+
+Watt per day = 425
+
+Watt per hour = 17 
+
+
+--------------------------
+
+150 wp
+
+Watt per day = 635
+
+Watt per hour = 26
+
+
+
+--------------------------
+
+200 wp
+
+
+
+Watt per day = 850
+
+Watt per hour = 35 
+
+
+--------------------------
+
+250 wp
+
+Watt per day = 1060
+
+Watt per hour = 44 
+
+
+--------------------------
+
+300 wp
+
+Watt per day = 1275
+
+Watt per hour = 53 
+
+
+--------------------------
+
+400 wp
+
+
+Watt per day = 1700
+
+Watt per hour = 70 
+
+
+
+
+
